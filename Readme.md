@@ -1,5 +1,7 @@
 # study-express-gateway
 
+Study case of Express API Gateway.
+
 ## How to start
 
 To start the Express API Gateway, run the following commands:
